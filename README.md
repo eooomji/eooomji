@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=396060&height=150&selection=header&text=eooomji&t&fontSize=80&fontColor=ffe4e1&animation=twinkling)  
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=396060&height=120&selection=header&text=eooomji&t&fontSize=70&fontColor=ffe4e1&animation=twinkling)    
 <div align="center">
   안농 😄
 </div>
