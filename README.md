@@ -1,6 +1,4 @@
-# 👍 ME
-
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=396060&height=120&selection=header&text=eooomji&t&fontSize=70&fontColor=ffe4e1&animation=twinkling)  
+# About 😋
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=thumbb&theme=ffe4e1)
 
