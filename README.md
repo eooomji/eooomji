@@ -5,7 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eooomji&layout=compact)](https://github.com/eooomji/github-readme-stats)  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feooomji&count_bg=%23050505&title_bg=%23FFA399&icon=awesomelists.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **eooomji/eooomji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
